@@ -1,0 +1,9 @@
+Merchant_Category,Transaction_Count,Fraud_Count,Fraud_Rate
+Electronics,650,49,7.54
+Entertainment,630,72,11.43
+Fashion,608,62,10.2
+Food,684,74,10.82
+Grocery,629,58,9.22
+Health,606,61,10.07
+Travel,599,56,9.35
+Utilities,594,50,8.42

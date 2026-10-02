@@ -1,0 +1,6 @@
+Payment_Method,Transaction_Count,Fraud_Count,Fraud_Rate
+Credit Card,972,96,9.88
+Debit Card,1008,103,10.22
+NetBanking,1037,85,8.2
+PayPal,1022,98,9.59
+UPI,961,100,10.41

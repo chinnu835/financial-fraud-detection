@@ -1,0 +1,5 @@
+Model,Threshold,TN,FP,FN,TP
+Logistic Regression,0.75,828,76,53,43
+Decision Tree,0.1,858,46,78,18
+Random Forest,0.35,749,155,21,75
+XGBoost,0.1,682,222,11,85

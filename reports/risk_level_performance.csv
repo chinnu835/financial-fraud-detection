@@ -1,0 +1,5 @@
+Risk_Level,Transaction_Count,Fraud_Count,Fraud_Rate
+Low,649,1,0.15
+Medium,270,63,23.33
+High,79,31,39.24
+Critical,2,1,50.0

@@ -1,0 +1,5 @@
+Indicator,Transaction_Count,Fraud_Count,Fraud_Rate
+International Transaction,441,163,36.96
+Domestic Transaction,4559,319,7.0
+Suspicious Keyword = Yes,260,123,47.31
+Suspicious Keyword = No,4740,359,7.57

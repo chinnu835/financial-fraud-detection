@@ -1,0 +1,4 @@
+Device_Type,Transaction_Count,Fraud_Count,Fraud_Rate
+Desktop,1679,172,10.24
+Mobile,1648,151,9.16
+POS,1673,159,9.5

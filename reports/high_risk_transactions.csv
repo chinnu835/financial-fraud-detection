@@ -1,0 +1,21 @@
+Transaction_Amount,Merchant_Category,Payment_Method,Device_Type,Location,Is_International,Previous_Transactions,Average_Spend,Account_Age_Days,Suspicious_Keyword,Transaction_Hour,Transaction_Day,Transaction_DayOfWeek,Transaction_Month,Night_Transaction,Actual_Fraud,Fraud_Probability,Risk_Level
+91.97,Travel,NetBanking,Desktop,Kolkata,1,141,463.1,1316,Yes,5,15,3,2,1,1,0.8166666666666667,Critical
+64.5,Utilities,PayPal,Desktop,Delhi,1,44,346.45,939,No,5,21,3,9,1,0,0.7633333333333333,Critical
+7.53,Food,UPI,Mobile,Chennai,1,140,319.05,1654,Yes,5,26,3,1,1,1,0.75,High
+108.99,Food,Debit Card,POS,Pune,0,26,106.39,1939,Yes,3,3,4,2,1,1,0.7466666666666667,High
+182.14,Fashion,Debit Card,Mobile,Mumbai,0,106,149.87,137,Yes,5,19,0,2,1,1,0.7233333333333334,High
+38.79,Food,Credit Card,POS,Kolkata,1,91,210.12,955,Yes,20,18,3,5,0,1,0.7166666666666667,High
+75.68,Grocery,Debit Card,POS,Pune,0,85,266.99,439,Yes,0,31,4,3,1,0,0.7133333333333334,High
+145.13,Travel,NetBanking,Desktop,Delhi,1,93,387.47,857,No,5,21,2,6,1,0,0.7,High
+16.21,Entertainment,Credit Card,POS,Delhi,0,198,232.86,812,Yes,4,14,4,7,1,1,0.69,High
+65.43,Health,Credit Card,Mobile,Kolkata,0,150,59.1,1855,Yes,1,12,0,6,1,1,0.6866666666666666,High
+45.04,Electronics,Debit Card,Desktop,Pune,1,187,215.07,1202,Yes,15,26,6,3,0,1,0.6866666666666666,High
+11.04,Entertainment,Credit Card,POS,Mumbai,0,114,427.85,1117,Yes,6,29,2,3,0,1,0.68,High
+35.07,Food,NetBanking,Mobile,Mumbai,0,164,278.69,990,Yes,8,26,6,3,0,1,0.6733333333333333,High
+64.73,Travel,UPI,POS,Mumbai,1,7,247.76,1113,No,1,9,3,11,1,0,0.6733333333333333,High
+346.79,Health,PayPal,POS,Bengaluru,1,30,405.21,680,No,3,19,5,8,1,0,0.6666666666666666,High
+105.22,Entertainment,PayPal,POS,Delhi,1,60,420.04,546,No,3,12,4,5,1,0,0.66,High
+30.72,Food,PayPal,Mobile,Pune,0,12,389.76,1347,Yes,2,4,2,1,1,1,0.64,High
+251.21,Food,Debit Card,POS,Hyderabad,1,100,173.85,1561,No,4,13,3,7,1,1,0.64,High
+56.34,Grocery,Debit Card,Mobile,Delhi,1,127,173.05,965,No,2,11,1,7,1,1,0.6366666666666667,High
+20.87,Health,UPI,Desktop,Hyderabad,1,59,159.79,53,No,1,22,0,1,1,0,0.6366666666666667,High

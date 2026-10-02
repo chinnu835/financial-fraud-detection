@@ -1,0 +1,5 @@
+Risk_Level,Fraud_Count,Fraud_Capture_Percentage
+Low,1,1.04
+Medium,63,65.62
+High,31,32.29
+Critical,1,1.04
